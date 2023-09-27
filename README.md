@@ -4,5 +4,14 @@
 ## Important Information: This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io 
 
 # Activity 1
-Screenshot of updated Personal Repo
+#### Screenshot of updated Personal Repo
 ![img.png](Images/img.png)
+
+
+# Activity 2
+#### Screenshot of Home Page
+![img.png](Images/img1.png)
+
+
+#### Commit messages
+![img.png](Images/img2.png)
