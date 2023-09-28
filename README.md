@@ -1,6 +1,7 @@
 # Lab2: Front End Design
 
 ## Student Name: Yihang Lin
+## Website: https://johnlyyn123.github.io/
 ## Important Information: This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io 
 
 # Activity 1
@@ -28,3 +29,14 @@
 
 #### Commit Messages
 ![img.png](Images/img3.png)
+
+
+# Activity 4
+#### Screenshot of Places Travelled Section
+![img.png](Images/img7.png)
+
+#### Screenshot of Repo
+![img.png](Images/img8.png)
+
+#### Commit Messages
+![img.png](Images/img9.png)
