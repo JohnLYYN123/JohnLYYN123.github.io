@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #004d40;
+  color: #41A0F6;
 }
 
 /* main blockqoute */
@@ -560,6 +560,10 @@ small {
 
 .teal {
   background-color: #41A0F6 !important;
+}
+
+.teal_main {
+   color: #3399FF
 }
 
 /* .teal {
